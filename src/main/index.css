@@ -29,7 +29,7 @@
 }
 
 #body {
-  height: 100%;
+  height: 100vh;
   width: 800px;
   margin: 0 auto;
 }
@@ -99,4 +99,9 @@
 
 .product-seller a {
   color: white;
+}
+
+.product-link {
+  color: inherit;
+  text-decoration: none;
 }
