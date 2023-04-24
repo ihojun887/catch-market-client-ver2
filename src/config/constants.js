@@ -1,1 +1,1 @@
-export const API_URL = "https://jaewoo-server.fly.dev";
+export const API_URL = "https://da-server-project.fly.dev";
