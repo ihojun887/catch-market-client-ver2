@@ -30,7 +30,7 @@ function MainPageComponent() {
         setBanners(banners);
       })
       .catch((error) => {
-        console.error("에러 발생", error);
+        console.error("베너 에러 발생", error);
       });
   }, []);
 
