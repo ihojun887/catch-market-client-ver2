@@ -1,1 +1,2 @@
-export const API_URL = "https://da-1124jaewookim.fly.dev";
+export const API_URL = "https://catch-market-server.fly.dev";
+// export const API_URL = "http://localhost:8080";
