@@ -40,7 +40,7 @@ body,
 
 #footer {
   height: 200px;
-  background-color: rgb(230, 230, 23);
+  background-color: rgba(239, 199, 190, 0.559);
 }
 
 @media screen and (max-width: 400px) {

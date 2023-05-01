@@ -49,7 +49,7 @@ function MainPageComponent() {
           );
         })}
       </Carousel>
-      <h1 id="product-headline">판매되는 상품들</h1>
+      <h1 id="product-headline">FIND YOUR STYLE</h1>
       <div id="product-list">
         {products.map(function (product, index) {
           return <ProductCard product={product} key={index} />;
